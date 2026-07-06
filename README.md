@@ -1,4 +1,4 @@
-# Dylan Villanueva — Data Analytics Portfolio
+Dylan Villanueva — Data Analytics Portfolio
 
 B.S. Informatics, Data Analytics Concentration | University at Albany, 2025
 
@@ -6,8 +6,7 @@ I am a data analyst based in the Hudson Valley, NY area actively building toward
 
 This portfolio documents real analytical work — not tutorials, not copied datasets with no analysis. Every project here starts with a question and ends with a finding.
 
-📧 dvillanueva227@outlook.com
-🌐 Portfolio Site
+📧 dvillanueva227@outlook.com | 🌐 Portfolio Site
 
 
 Skills
