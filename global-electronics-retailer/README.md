@@ -29,7 +29,7 @@ The dataset follows a star schema with 5 tables:
 | Stores | Country, state, store size (sq meters), open date |
 | Exchange Rates | Daily currency rates (CAD, AUD, EUR, GBP) vs USD |
 
-![Data Model](star-schema.png)
+![Data Model](newschema.png)
 
 All revenue and profit figures were normalized to USD using daily exchange rates via XLOOKUP across the Sales and Exchange Rates tables.
 
